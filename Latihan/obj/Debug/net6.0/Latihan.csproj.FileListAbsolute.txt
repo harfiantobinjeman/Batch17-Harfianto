@@ -1,0 +1,15 @@
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\bin\Debug\net6.0\Latihan.exe
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\bin\Debug\net6.0\Latihan.deps.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\bin\Debug\net6.0\Latihan.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\bin\Debug\net6.0\Latihan.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\bin\Debug\net6.0\Latihan.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\refint\Latihan.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\Latihan.genruntimeconfig.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\Latihan\Latihan\obj\Debug\net6.0\ref\Latihan.dll
