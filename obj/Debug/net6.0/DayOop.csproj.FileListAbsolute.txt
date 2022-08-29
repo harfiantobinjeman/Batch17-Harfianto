@@ -1,0 +1,15 @@
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\bin\Debug\net6.0\DayOop.exe
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\bin\Debug\net6.0\DayOop.deps.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\bin\Debug\net6.0\DayOop.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\bin\Debug\net6.0\DayOop.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\bin\Debug\net6.0\DayOop.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\refint\DayOop.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\DayOop.genruntimeconfig.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\DayOop\obj\Debug\net6.0\ref\DayOop.dll
