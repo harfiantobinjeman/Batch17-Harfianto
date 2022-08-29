@@ -21,7 +21,7 @@ namespace DayOop.PartOne
 
         public override string? ToString()
         {
-            return $"{base.ToString()} Tj Transportasi = {this.transportasi.ToString("C",new CultureInfo("id-ID"))}";
+            return $"{base.ToString()} Tj Transportasi : {this.transportasi.ToString("C",new CultureInfo("id-ID"))}";
         }
     }
 

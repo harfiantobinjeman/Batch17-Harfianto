@@ -51,7 +51,7 @@ namespace DayOop.PartOne
 
         public override string? ToString()
         {
-            return $"Employee : {this.empId} Firs Name : {this.firsName} Last Name : {this.lastName} salary : {this.basicSalary.ToString("C", new CultureInfo("id-ID"))}  Total Salery : {this.totalSalery.ToString("C", new CultureInfo("id-ID"))}";
+            return $"Employee : {this.empId} | Firs Name : {this.firsName} | Last Name : {this.lastName} | salary : {this.basicSalary.ToString("C", new CultureInfo("id-ID"))} | Rolenya : {role} | Dengan Total Salery : {this.totalSalery.ToString("C", new CultureInfo("id-ID"))}";
         }
 
         //geter seter blok private klik kanan paling atas
