@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DayOop.PartOne
+namespace DayOop.PartTwo
 {
     internal class Employee
     {

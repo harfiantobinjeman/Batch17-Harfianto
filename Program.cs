@@ -2,6 +2,8 @@
 // See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 using DayOop.PartOne;
+using DayOop.PartTwo;
+using DayOop.ParTwo;
 
 //setiap creat ojbeck instan gunakan operator baru
 //Employee emp1 = new Employee();
@@ -42,8 +44,8 @@ foreach (var item in listEmp)
     Console.WriteLine(item.ToString()); //to string nampilkan semua data
 }*/
 
-WriteLine("===========================List==============================");
-Progremer prog1 = new Progremer(1010, "hisyam", "madu", new DateTime(2022, 05, 23), 5_000_000, "bandung", 500_000);
+/*WriteLine("===========================List==============================");*/
+/*Progremer prog1 = new Progremer(1010, "hisyam", "madu", new DateTime(2022, 05, 23), 5_000_000, "bandung", 500_000);
 List<Employee> listEmp1 = new List<Employee>() {prog1 };
 
 foreach (var item in listEmp1)
@@ -64,4 +66,21 @@ List<Employee> listEmp3 = new List<Employee>() { qa };
 foreach (var item in listEmp3)
 {
     Console.WriteLine(item.ToString()); //to string nampilkan semua data
-}
+}*/
+WriteLine("===========================List==============================");
+//call interface dan implementasinya
+
+IEmployee empInf =new EmployeeImpl();
+var listOfEmps = empInf.InitDataEmployee();
+empInf.ShowList(listOfEmps);
+
+
+var emp = empInf.FindEmployeeId(listOfEmps, 1010);
+WriteLine($"-Menemukan : {emp}");
+
+var total = empInf.GetTotal(ref listOfEmps);
+WriteLine($"-Sub Total Salary : {total}");
+
+WriteLine("===========================List==============================");
+var saleryRange = empInf.FindSalararyRang(listOfEmps, 2_000_000, 4_000_000);
+empInf.ShowList(saleryRange);
