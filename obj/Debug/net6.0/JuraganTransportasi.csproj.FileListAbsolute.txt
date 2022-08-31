@@ -1,0 +1,15 @@
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\bin\Debug\net6.0\JuraganTransportasi.exe
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\bin\Debug\net6.0\JuraganTransportasi.deps.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\bin\Debug\net6.0\JuraganTransportasi.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\bin\Debug\net6.0\JuraganTransportasi.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\bin\Debug\net6.0\JuraganTransportasi.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\refint\JuraganTransportasi.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\JuraganTransportasi.genruntimeconfig.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\JuraganTransportasi\obj\Debug\net6.0\ref\JuraganTransportasi.dll
