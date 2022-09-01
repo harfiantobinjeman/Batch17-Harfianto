@@ -6,7 +6,7 @@ using FinalTest;
 Console.WriteLine(show);*/
 
 /*var show = Jawaban.NumberDua(7);
-Console.WriteLine(show); */
+Console.WriteLine(show);*/
 
 /*var show = Jawaban.NumberTiga(8);
 Console.WriteLine(show);*/
@@ -17,8 +17,8 @@ Console.WriteLine(show);*/
 /*var show = Jawaban.NumberEnam("{}}");
 Console.WriteLine(show);*/
 
-/*var show = Jawaban.NumberTujuh("Hello", "OlleHI");
-Console.WriteLine(show);*/
-var show = Jawaban.NumberDelapan(5, 5);
-Jawaban.DisplayMatrix(show);
+var show = Jawaban.NumberTujuh("Hello", "olleh");
+Console.WriteLine(show);
+/*var show = Jawaban.NumberDelapan(5, 5);
+Jawaban.DisplayMatrix(show);*/
 

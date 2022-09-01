@@ -87,19 +87,32 @@ namespace FinalTest
             string result = "FALSE";
             string simpanNilai1 = nilai1.ToLower();
             string simpanNilai2 = nilai2.ToLower();
-            for (int i = 0; i < simpanNilai1.Length; i++)
+            string a = "";
+            if (nilai1.Length != nilai2.Length)
             {
-                for (int j = 0; j < simpanNilai2.Length; j++)
+                result = "FALSE";
+            }
+            else
+            {
+                for (int i = 0; i < simpanNilai1.Length; i++)
                 {
-                    if (nilai1.Length != nilai2.Length)
+                    for (int j = 0; j < simpanNilai2.Length; j++)
                     {
-                        result = "FALSE";
-                    }
-                    else if (simpanNilai1[i]== simpanNilai2[j])
-                    {
-                        result = "TRUE";
+                        if (simpanNilai1[i] == simpanNilai2[j])
+                        {
+                            a += simpanNilai1[i];
+                            break;
+                        }
                     }
                 }
+            }            
+            if (a == simpanNilai1)
+            {
+                result = "True";
+            }
+            else
+            {
+                result = "False";
             }
             return result;
         }
