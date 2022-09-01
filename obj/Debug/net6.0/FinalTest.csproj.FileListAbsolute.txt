@@ -1,0 +1,15 @@
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\bin\Debug\net6.0\FinalTest.exe
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\bin\Debug\net6.0\FinalTest.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+C:\Users\Code.id\Documents\Harfianto\C#\day 2\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
