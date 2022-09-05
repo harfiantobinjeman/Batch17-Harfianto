@@ -1,0 +1,14 @@
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\bin\Debug\net6.0\EFCore_NortwindDb.deps.json
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\bin\Debug\net6.0\EFCore_NortwindDb.runtimeconfig.json
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\bin\Debug\net6.0\EFCore_NortwindDb.dll
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\bin\Debug\net6.0\EFCore_NortwindDb.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.csproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.AssemblyInfo.cs
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.dll
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\refint\EFCore_NortwindDb.dll
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.pdb
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\EFCore_NortwindDb.genruntimeconfig.cache
+C:\Users\Code.id\Documents\Harfianto\C#\integrasi ke database\EFCore_NortwindDb\EFCore_NortwindDb\obj\Debug\net6.0\ref\EFCore_NortwindDb.dll
